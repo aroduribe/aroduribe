@@ -3,7 +3,7 @@
     <img src="https://media.giphy.com/media/PFXmxJoyTNfDG/source.gif" width="200px" />
   <br>
   <samp>
-  I'm a Latinx, gay Front End Engineer at DreamWorks Animation. 
+  I'm a Latinx Front End Engineer at DreamWorks Animation. 
   <br><br>
   My current work is focused on building a cloud native web application <br>
   that gives our artists the ability to navigate their production contexts.
@@ -13,5 +13,4 @@
   :point_right: @ me on <a href="https://twitter.com/aroduribe">Twitter</a>
   </samp>
   <br >
-  <img src="https://media.giphy.com/media/SpoV1pB4g7gXvWo3Up/giphy.gif" width="200px" />
 </p>
